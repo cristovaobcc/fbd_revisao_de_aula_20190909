@@ -7,7 +7,7 @@ package br.com.fbd.acad.business;
 
 import br.com.fbd.acad.dao.DaoAluno;
 import br.com.fbd.acad.dao.IDaoAluno;
-import br.com.fbd.acad.exececoes.AcadException;
+import br.com.fbd.acad.excecoes.AcadException;
 import br.com.fbd.acad.model.Aluno;
 import java.util.List;
 

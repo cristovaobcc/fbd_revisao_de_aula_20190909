@@ -5,7 +5,7 @@
  */
 package br.com.fbd.acad.fachada;
 
-import br.com.fbd.acad.exececoes.AcadException;
+import br.com.fbd.acad.excecoes.AcadException;
 import br.com.fbd.acad.model.Aluno;
 import java.util.List;
 
